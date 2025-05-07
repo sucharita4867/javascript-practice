@@ -37,3 +37,27 @@ let numbers = [10, 20, 30, 40, 50];
 // task 12
 // const one = numbers[0];
 // console.log(one)
+
+// task 13
+// console.log(numbers.length- 3)++++++++++++++++++++++++++++++++++++++++++++++==
+
+// task 14
+// const three = numbers[2];
+// console.log(three)
+
+// task 15
+// numbers.unshift(60);
+// console.log(numbers)
+
+// task 16
+// numbers.shift()
+// console.log(numbers)
+
+// task 17+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// task 18
+// console.log(numbers.includes(330))
+
+// task 19++++++++++++++++++++++++++++++++++++++++++++++
+
+// task 20++++++++++++++++++++++++++++++++++++++++++++++++++++++++
