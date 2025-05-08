@@ -54,19 +54,58 @@
 // }
 // --------------------------08 | 05 |2025 if else practice-------------------------
 // task 1
-let a = 1256, b = 25, c = 178;
-if (a > b && a > c){
-      console.log('this is big :', a)
-}
-else if(b > c && b > a){
-      console.log('this is big :', b)
-}
-else if(c > b && c > a){
-      console.log('this is big :', c)
-}
-else if(a === b === c){
-      console.log('equal')
-}
-else {
-      console.log('error')
-}
+// let a = 1256, b = 25, c = 178;
+// if (a > b && a > c){
+//       console.log('this is big :', a)
+// }
+// else if(b > c && b > a){
+//       console.log('this is big :', b)
+// }
+// else if(c > b && c > a){
+//       console.log('this is big :', c)
+// }
+// else if(a === b === c){
+//       console.log('equal')
+// }
+// else {
+//       console.log('error')
+// }
+
+// task 2++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++==
+
+
+// task 3
+// let latter = 'e' ;
+
+// task 4
+// let num = 0 ;
+// if(num > 0){
+//       console.log('positive :', num)
+// }
+// else if(num < 0){
+//       console.log('negative :', num)
+// }
+// else if(num === 0){
+//       console.log('zero :', num)
+// }
+// else{
+//       console.log('error')
+// }
+
+// task 5
+// let hour = 2 ;
+// if(hour > 5 && hour < 12){
+//       console.log('Good Morning :', hour)
+// } 
+// else if(hour > 12 && hour < 17){
+//       console.log('Good Afternoon :', hour)
+// }
+// else if(hour > 17 && hour < 21){
+//       console.log('Good Evening :', hour)
+// }
+// else if(hour > 22 || hour < 5){
+//       console.log('Good Night :', hour)
+// }
+// else{
+//       console.log('error')
+// }
