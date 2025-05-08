@@ -52,3 +52,21 @@
 // else{
 //       console.log('Fail')
 // }
+// --------------------------08 | 05 |2025 if else practice-------------------------
+// task 1
+let a = 1256, b = 25, c = 178;
+if (a > b && a > c){
+      console.log('this is big :', a)
+}
+else if(b > c && b > a){
+      console.log('this is big :', b)
+}
+else if(c > b && c > a){
+      console.log('this is big :', c)
+}
+else if(a === b === c){
+      console.log('equal')
+}
+else {
+      console.log('error')
+}
