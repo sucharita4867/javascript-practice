@@ -4,4 +4,4 @@ console.log(friends.indexOf('moni'))
 console.log(friends.indexOf('sahil'))
 
 
-console.log(friends.indexOf('sani'))
+console.log(friends.includes('soheli'))
